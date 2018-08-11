@@ -2,10 +2,10 @@
 
 Collatz encoding method with wide format characters.
 
-* @param std-c99.
+* Param-- std-c99.
 * NDEBUG is undefined in relase mode for assertions.
-* @author AMARDJIA Amine
-* @date  02/04/2017
+* Author AMARDJIA Amine
+* Date  02/04/2017
 
 
 # Description: 
